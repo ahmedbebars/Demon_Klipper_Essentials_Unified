@@ -290,7 +290,7 @@ You must set your desired values in the KAMP_Settings.cfg
 
 ![KAMP_LiTE Settings](https://github.com/user-attachments/assets/3ecfcd1c-b117-43b8-b8cb-9121be6c7b95)
 
-Then you must activate the KAMP settings in the `demon_user_settings_v2.8.cfg` file.
+Then you must activate the KAMP settings in the `demon_user_settings_v2.9.cfg` file.
 
 ![KAMP_LiTE Vars](https://github.com/user-attachments/assets/58ebc555-2bad-465c-b052-04c9f189171d)
 
